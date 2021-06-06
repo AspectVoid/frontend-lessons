@@ -1,0 +1,36 @@
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+
+    <!-- <link rel="stylesheet" href="./main.css"> -->
+
+<style>
+h1 {
+            color: brown;
+            font-size: 32px;
+            font-family: 'Montserrat', sans-serif;        
+            font-weight: 500;
+            font-style: italic;            
+        }
+
+        h2 {
+            font-size: 32px;
+            font-family: 'Montserrat', sans-serif;        
+            font-weight: 900;
+        }
+</style>
+
+    <!-- Кольори 
+    red, white, blue ....
+    rgb (0-250, 0-250, 0-250) // red, green, blue
+    rgb (100%, 100%, 100%) // red, green, blue
+
+    rgba (0-250, 0-250, 0-250, 0-1)
+
+    #RRGGBB (0-9) (A-F)
+     -->
+
+     <h1>Уроки стилів</h1>
+
+     <h2>Уроки стилів</h2>
+    
+    
